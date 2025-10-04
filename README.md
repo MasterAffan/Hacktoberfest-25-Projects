@@ -228,6 +228,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 202 | [Shiksha AI](https://github.com/skully-coder/shiksha-ai) | TypeScript | AI-enabled project for automating lesson plans, worksheets, and educational content in low connectivity areas. |
 | 203 | [AsHelp](https://github.com/kris70lesgo/asHelp) | Next.js, TypeScript, Supabase | Platform for assignment management; connects students to top-performing peers, handles secure transactions, modern responsive web app. |
 | 204 | [Podcast Hub](https://github.com/cryptohub53/podcast-hub) | Next.js, TailwindCSS | Discover podcasts using a simple and interactive web interface. |
+| 205 | [OpenUI-Library](https://github.com/alirezazim03/OpenUI-Library) | React.js, TailwindCSS | A community-driven, open-source library of reusable UI components for modern web development. |
 
 
 
