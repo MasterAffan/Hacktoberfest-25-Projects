@@ -84,7 +84,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 57 | [Guessync](https://github.com/kalviumcommunity/S74_capstone_yogesh_guessync) | JavaScript, React, Node.js, MongoDB, Socket.IO | Real-time multiplayer music guessing game with Spotify/YouTube integration, live chat, AI-powered hints, and typo-tolerant guesses. |
 | 58 | [rclip](https://github.com/yurijmikhalevich/rclip) | Python | Command-line photo search tool powered by OpenAI CLIP. Lets you search images by text queries across directories, with terminal image preview support. |
 | 59 | [Kubestellar](https://github.com/kubestellar/kubestellar) | Go, Shell, Python | Multi-cluster Kubernetes management with a single control plane. GitOps-native, secure, and edge-friendly with beginner-friendly and advanced contribution opportunities. |
-| 60 | [NIfTI-to-DICOM Converter Viewer](https://github.com/AyushMann29/NIfTI-to-DICOM-Converter-Viewer) | Typescript, Javascript, Python | Online converter and viewer for 3D medical scans (NIfTI to DICOM) with segmentation masks; needs help with deployment, UI, and docs. |
+| 60 | [NIfTI-to-DICOM Converter Viewer](https://github.com/AyushMann29/NIfTI-to-DICOM-Converter-Viewer) | TypeScript, JavaScript, Python | Online converter and viewer for 3D medical scans (NIfTI to DICOM) with segmentation masks; needs help with deployment, UI, and docs. |
 | 61 | [Standard Agent](https://github.com/jentic/standard-agent) | Python | Small, composable agent runtime with pluggable LLMs, tools, memory, and reasoners; contribute new reasoners, typed tools, and examples. |
 | 62 | [Arazzo Engine](https://github.com/jentic/arazzo-engine) | Python | Tools for Arazzo (OpenAPI workflow orchestration). Contribute validations, better errors, and workflow samples. |
 | 63 | [Jentic Public APIs](https://github.com/jentic/jentic-public-apis) | API, YAML | Community repo of OpenAPI specs and Arazzo workflows; help with spec repairs, new specs, and quality checks. |
@@ -92,12 +92,12 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 65 | [DogLang](https://github.com/pallavrai/doglang) | Python | Dog-themed programming language with its own lexer/parser. Contribute semantic analyzer, REPL, tests, or docs. |
 | 66 | [NekoHack](https://github.com/mohitahlawat2001/NekoHack) | JavaScript, HTML | Chrome extension to save/restore tabs in the cloud; help with UI polish, error handling, Firefox support, and encryption. |
 | 67 | [tscircuit](https://github.com/tscircuit/tscircuit) | TypeScript | Framework for designing circuit boards with React; fun challenges in code editor, 3D rendering, and viewers. |
-| 68 | [Profocto](https://github.com/NiranjanKumar001/Profocto) | JavaScript, Typescript | Simple resume builder app; contribute UI/UX improvements, features, and bug fixes. |
+| 68 | [Profocto](https://github.com/NiranjanKumar001/Profocto) | JavaScript, TypeScript | Simple resume builder app; contribute UI/UX improvements, features, and bug fixes. |
 | 69 | [Minerva](https://github.com/move-fast-and-break-things/minerva) | Python | GPT-powered Telegram bot that aids in learning software dev; contribute features, reminders, and agent improvements. |
-| 70 | [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) | Typescript, Javascript | Command-line tool to manage Microsoft 365, Teams, SharePoint, and more; contribute to option validation and docs. |
+| 70 | [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) | TypeScript, JavaScript | Command-line tool to manage Microsoft 365, Teams, SharePoint, and more; contribute to option validation and docs. |
 | 71 | [101 Linux Commands](https://github.com/bobbyiliev/101-linux-commands) | HTML | Turn Linux commands ebook into a Python CLI tool; beginner-friendly issues for CLI setup, commands, and GitHub Actions. |
-| 72 | [TerraQuake API](https://github.com/nagcas/TerraQuakeApi) | Javascript, HTML | API for real-time and historical earthquake data; contribute endpoints, docs, and usage examples. |
-| 73 | [busez](https://github.com/zeforgezenica/busez) | Typescript, JavaScript | Public transport timetable app for Zenica (Bosnia); looking for contributors of all skill levels for 2025. |
+| 72 | [TerraQuake API](https://github.com/nagcas/TerraQuakeApi) | JavaScript, HTML | API for real-time and historical earthquake data; contribute endpoints, docs, and usage examples. |
+| 73 | [busez](https://github.com/zeforgezenica/busez) | TypeScript, JavaScript | Public transport timetable app for Zenica (Bosnia); looking for contributors of all skill levels for 2025. |
 | 74 | [AlumConnect](https://github.com/agastya3636/AlumConnect) | JavaScript | Web platform to connect alumni with their alma mater. Open for contributors to fix bugs, add features, improve docs, and review code. |
 | 75 | [Cyclone Node](https://gitlab.com/moe_cyclone/cyclone-node) | Kotlin | Client for qBitTorrent, part of the plexrequests project. Features include category/tag management, file operations, and download control. Future plans: unified backend, auth, and Filebrowser integration. |
 | 76 | [smetovi](https://github.com/zeforgezenica/smetovi) | Astro, React (Leaflet), Cloudflare Pages | Tourism promotion platform for the Smetovi mountain (Zenica). Looking for contributors of all levels. |
@@ -134,7 +134,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 107 | [Kodus](https://github.com/kodustech/kodus-ai) | TypeScript | AI-assisted code review platform with AST-level analysis, configurable rules, and PR integration. |
 | 108 | [OWASP Nest](https://github.com/owasp/nest) | Python (Django), TypeScript (Next.js), Docker, AWS | Open-source security platform with backend in Django and frontend in Next.js; selected for Google Summer of Code 2025. |
 | 109 | [Vector](https://github.com/vectordotdev/vector) | Rust | High-performance observability data pipeline for collecting, transforming, and routing logs, metrics, and traces. |
-| 110 | [ChainGate](https://github.com/riz4d/ChainGate) | Python, TypeScipt (Next.Js), C++ | ChainGate is a modern, blockchain-integrated access control system that combines NFC technology with distributed ledger security and AI-powered analytics. It provides real-time access management, user authentication, immutable audit trails through smart contract integration, and intelligent user behavior analysis through an integrated AI assistant that can answer natural language queries about user access patterns and history.|
+| 110 | [ChainGate](https://github.com/riz4d/ChainGate) | Python, TypeScript (Next.js), C++ | ChainGate is a modern, blockchain-integrated access control system that combines NFC technology with distributed ledger security and AI-powered analytics. It provides real-time access management, user authentication, immutable audit trails through smart contract integration, and intelligent user behavior analysis through an integrated AI assistant that can answer natural language queries about user access patterns and history.|
 | 111 | [Aksharamukha.js](https://github.com/paramsiddharth/aksharamukha.js) | TypeScript, Python | A WASM port of the Python transliteration library Aksharamukha. |
 | 112 | [Hacktoberfest 2025 Portfolio](https://github.com/yesiamrajeev/Hacktoberfest2025-Portfolio) | HTML, CSS, JavaScript | Portfolio repo with intentional bugs; contribute by fixing frontend/backend issues like a bug-hunting challenge. |
 | 113 | [GFG POTD](https://github.com/Gyanthakur/GFG_POTD) | C++, Python | Daily GeeksforGeeks problem solutions; contribute fixes, enhancements, or new problem submissions. |
@@ -286,7 +286,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 259 | [AlgoVisualizer](https://github.com/mahaveergurjar/AlgoVisualizer) | React.js, Vite, CSS Modules | An interactive web app to visualize sorting, pathfinding, and graph algorithms in real-time, perfect for beginners. |
 | 260 | [MyCSES](https://github.com/ks-iitjmu/MyCSES) | C++, Python, Java | A curated collection of CSES Problem Set solutions and explanations, organized by topic for mastering algorithms. |
 | 261 | [DEV_ELEVATE-main-](https://github.com/Satya900/DEV_ELEVATE-main-) | React, TypeScript, Tailwind CSS, Firebase | A modern learning platform (Develevate) for developers with interactive tutorials, a built-in code compiler, and structured learning paths. |
-| 262 | [Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles) | N/A | A place to list and showcase developer skills and profiles. |
+| 262 | [Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles) | HTML, CSS | A place to list and showcase developer skills and profiles. |
 | 263 | [sedona](https://github.com/apache/sedona) | Java, Scala, Python | Apache Sedona, the most popular open-source cluster computing engine for processing large-scale geospatial data; looking for GeoPandas API contributions. |
 | 264 | [echomail](https://github.com/Agent-Hellboy/echomail) | Go | An email reader for Mac that converts technical blogs and emails into audio for hands-free listening. |
 | 265 | [Poseidon-s-Trident](https://github.com/Cyber-Samurai-Group/Poseidon-s-Trident) | Python, TypeScript | A cybersecurity project focused on Threat Detection, Protection, and Response. |
@@ -311,7 +311,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 284 | [StratOS Website](https://github.com/StratOS-Linux/stratos-linux.github.io) | Astro, Starlight | The website for the StratOS Linux distribution, built with Astro and Starlight. (Part of the StratOS-Linux organization.) |
 | 285 | [Rockers](https://github.com/StratOS-Linux/rockers) | Rust | The custom package manager script for the StratOS Linux distribution. (Part of the StratOS-Linux organization.) |
 | 286 | [Grab](https://github.com/StratOS-Linux/grab) | C++ | The custom fetch tool for the StratOS Linux distribution. (Part of the StratOS-Linux organization.) |
-| 287 | [mcp-containers](https://github.com/metorial/metorial) | Docker, N/A | Containerized versions of hundreds of MCP (Multi-Crew Project) servers. |
+| 287 | [mcp-containers](https://github.com/metorial/metorial) | TypeScript, Docker | Containerized versions of hundreds of MCP (Multi-Crew Project) servers. |
 | 288 | [FaceDetection\_Prototype3](https://github.com/yesiamrajeev/FaceDetection_Prototype3) | Python, OpenCV, Flask | A Face Detection Attendance System integrating machine learning with real-time web functionality, aimed at helping beginners. |
 | 289 | [chip8-emulator](https://github.com/python-fuse/chip8-emulator) | C++, SFML, Dear ImGui | A CHIP-8 Emulator open to contributions for new OPCODES and UI improvements. |
 | 290 | [HordVoice](https://github.com/HordRicJr/HordVoice) | Flutter | An AI-powered voice assistant built with Flutter and Azure AI Services. |
@@ -326,25 +326,25 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 299 | [TripTreat](https://github.com/Lanthoiba2022/TripTreat) | React, TypeScript, Supabase, Tailwind | A booking platform for Northeast India's homestays, eateries, and experiences, seeking help with bug fixes and feature additions. |
 | 300 | [smart-stocks](https://github.com/VishwaKraft/smart-stocks) | Python | A project using Machine Learning models to predict the price of stocks, aimed at building understanding of trading platforms. |
 | 301 | [terraform-provider-validatefx](https://github.com/The-DevOps-Daily/terraform-provider-validatefx) | Go | An open-source Terraform provider that adds handy validation functions like `is_email`, `is_uuid`, and more. |
-| 302 | [snippetstudio](https://github.com/alexanderdombroski/snippetstudio) | N/A | A VS Code extension for managing snippets, currently focusing on feature research and documentation for big ideas. |
-| 303 | [open-project-lab](https://github.com/spyder01/open-project-lab) | N/A | An open-source hub of curated project ideas and submissions across various development categories (Web, AI/ML, Game Dev, etc.). |
+| 302 | [snippetstudio](https://github.com/alexanderdombroski/snippetstudio) | TypeScript | A VS Code extension for managing snippets, currently focusing on feature research and documentation for big ideas. |
+| 303 | [open-project-lab](https://github.com/spyder01/open-project-lab) | Markdown | An open-source hub of curated project ideas and submissions across various development categories (Web, AI/ML, Game Dev, etc.). |
 | 304 | [ClassFetch](https://github.com/DeeptejD/ClassFetch) | JavaScript | A project welcoming Hacktoberfest contributions for new features and issues. |
 | 305 | [HordricWeather](https://github.com/HordRicJr/HordricWeather) | Flutter | A modern and free Flutter weather app with accurate forecasts, smart alerts, air quality, Android widget, and privacy-respecting features. |
-| 306 | [Superheroes-API](https://github.com/CyrilBaah/Superheroes-API) | N/A | A Superheroes API welcoming contributions to fix bugs, add new heroes, or improve features. |
+| 306 | [Superheroes-API](https://github.com/CyrilBaah/Superheroes-API) | Python | A Superheroes API welcoming contributions to fix bugs, add new heroes, or improve features. |
 | 307 | [debezium (AndrGab)](https://github.com/AndrGab/debezium) | FastAPI, WebSocket | A WebSocket-based FastAPI project demonstrating real-time Change Data Capture (CDC) using Debezium and Kafka for educational purposes. |
 | 308 | [groupvoyage](https://github.com/harshmangalam/groupvoyage-web) | TypeScript, JavaScript | A platform to find local groups, compare prices, and join budget-friendly weekend trips. |
 | 309 | [the-button-that-does-nothing](https://github.com/thecodersroom/the-button-that-does-nothing) | JavaScript | A project focused on "making something useful with something useless" by building a button that does nothing. |
 | 310 | [hermyx](https://github.com/spyder01/hermyx) | Go | A blazing-fast reverse proxy written in Go, built on top of `fasthttp`, designed for speed, caching, and simplicity. |
-| 311 | [activity-log](https://github.com/TheDanniCraft/activity-log) | N/A | A GitHub Action that automatically updates a user's README.md with their latest GitHub activity (commits, PRs, issues). |
+| 311 | [activity-log](https://github.com/TheDanniCraft/activity-log) | JavaScript | A GitHub Action that automatically updates a user's README.md with their latest GitHub activity (commits, PRs, issues). |
 | 312 | [tsbin](https://github.com/P8labs/tsbin) | TypeScript | A lightweight, open-source snippet/paste-sharing tool. |
-| 313 | [Zenly](https://github.com/Rushorgir/Zenly) | N/A | An open-source mental wellness platform designed to help people find calm, clarity, and support through curated resources and an elegant UI/UX. |
+| 313 | [Zenly](https://github.com/Rushorgir/Zenly) | TypeScript, JavaScript | An open-source mental wellness platform designed to help people find calm, clarity, and support through curated resources and an elegant UI/UX. |
 | 314 | [EasyWiFi](https://github.com/localrice/EasyWiFi) | C++ | An alternative, lightweight WiFi manager for ESP32 devices, focusing on essential WiFi functionality. |
-| 315 | [Lets-Talk-CDC-Change-Feed-Playground](https://github.com/sandgraal/Lets-Talk-CDC-Change-Feed-Playground) | N/A | A free playground for learners and practitioners to explore Change Data Capture (CDC) behavior hands-on, using tools like Debezium. |
+| 315 | [Lets-Talk-CDC-Change-Feed-Playground](https://github.com/sandgraal/Lets-Talk-CDC-Change-Feed-Playground) | TypeScript, JavaScript, CSS | A free playground for learners and practitioners to explore Change Data Capture (CDC) behavior hands-on, using tools like Debezium. |
 | 316 | [3D-Blockstack](https://github.com/maitri-vv/3D-Blockstack/issues) | three.js, JavaScript | A game built using three.js, looking for contributions. |
-| 317 | [document-editor-with-tiptap](https://github.com/amananandrai/document-editor-with-tiptap) | N/A | A document editor built with Tiptap, seeking contributions from the open-source community. |
+| 317 | [document-editor-with-tiptap](https://github.com/amananandrai/document-editor-with-tiptap) | TypeScript | A document editor built with Tiptap, seeking contributions from the open-source community. |
 | 318 | [Dialectica-ai](https://github.com/Dialectica-ai/dialectica-ai) | Next.js, Node.js, Socket.io | An open-source platform for structured, real-time debates, aiming to promote critical thinking. |
 | 319 | [soundbind](https://github.com/UselessCo/soundbind) | JavaScript, Node.js, YAML | A cross-platform soundboard system (Node.js app) that maps keyboard shortcuts to audio files, great for beginners. |
-| 320 | [DarkMeet](https://github.com/techSaswata/DarkMeet) | N/A | An AI-powered video conferencing platform. |
+| 320 | [DarkMeet](https://github.com/techSaswata/DarkMeet) | TypeScript | An AI-powered video conferencing platform. |
 | 321 | [KidCode](https://github.com/Sansi-28/KidCode) | JavaScript | A visual coding language where users turn simple commands into cool drawings, designed to be super beginner-friendly. |
 | 322 | [SDEverse](https://github.com/Harshdev625/SDEverse) | MERN Stack (MongoDB, Express, React, Node.js) | An open-source collaborative platform designed to help learners master Data Structures and Algorithms (DSA) through structured content and community contributions. |
 | 323 | [InsForge](https://github.com/InsForge/InsForge) | TypeScript | A backend platform for AI-driven development providing Auth, Database, Storage, and Functions with production-grade cloud infrastructure out of the box. |
@@ -389,11 +389,11 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 362 | [screen_off](https://github.com/Musaddiq625/screen_off/) | Flutter | A Flutter plugin to programmatically turn the screen off or on using the proximity sensor, useful for custom calling apps. |
 | 363 | [iina](https://github.com/iina/iina) | macOS | The modern video player for macOS. |
 | 364 | [learningo](https://github.com/anay-208/learningo) | Web App, Gemini | A Web App, Powered by Gemini, that generates lessons and questions based on your topic and helps you revise with MCQs. |
-| 365 | [WardhaMetroFLow](https://github.com/OpenFlow-X/WardhaMetroFlow) | AI | An AI-powered metro simulation for Wardha with Passenger and Admin views for route planning, monitoring, and traffic analysis. |
+| 365 | [WardhaMetroFLow](https://github.com/OpenFlow-X/WardhaMetroFlow) | HTML, JavaScript, CSS, Python | An AI-powered metro simulation for Wardha with Passenger and Admin views for route planning, monitoring, and traffic analysis. |
 | 366 | [Botanica](https://github.com/Sandali3000/Botanica) | HTML, CSS, JS | A small, no-backend web app for plant lovers to collect and organize their plants, running entirely in the browser. |
 | 367 | [regex-generator](https://github.com/priscillatrevizan/regex-generator) | JavaScript | An open-source tool for generating validated regular expressions based on user-selected criteria, with a guided flow and real-time testing. |
 | 368 | [automagik-tools](https://github.com/namastexlabs/automagik-tools) | Python, TypeScript, Rust | An AI-first toolkit to connect messaging platforms (Omni), orchestrate agents (Hive), schedule workflows (Spark), and assist development. |
-| 369 | [devdunia](https://github.com/echobash/devdunia/) | (Not specified) | An open-source, beginner-friendly toolkit which has 70+ developer tools. |
+| 369 | [devdunia](https://github.com/echobash/devdunia/) | HTML | An open-source, beginner-friendly toolkit which has 70+ developer tools. |
 | 370 | [clibrowser](https://github.com/v-aibha-v-jain/clibrowser) | Chrome Extension | A CLI-themed new page extension for Chrome, looking for help with bugs and new features like animated blocks and custom commands. |
 | 371 | [stringzy](https://github.com/Samarth2190/stringzy) | JavaScript, TypeScript | A zero-dependency JS string utility NPM library (1.3K+ downloads) looking for contributions for new utilities, docs, and tests. |
 | 372 | [GNews](https://github.com/ranahaani/GNews) | Python | A Python news aggregator (1K+ stars, 500K+ downloads) looking for help adding AI sentiment analysis, async support, and a REST API. |
@@ -404,7 +404,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 377 | [LeetcodeAutomater](https://github.com/Omkumar2003/LeetcodeAutomater) | Scripting | A LeetCode automator script that automatically submits answers, looking for contributions to improve it. |
 | 378 | [vizit](https://github.com/masabinhok/vizit) | Next.js, React, TypeScript | An educational web platform that brings algorithms (like Quick Sort, Dijkstra's) to life through real-time, interactive visualizations. |
 | 379 | [yt-snap](https://github.com/SwarnenduG07/yt-snap) | Python | A modern, Python-based YouTube downloader built as a fresh alternative to yt-dlp, currently in its early stages. |
-| 380 | [Screentime-recoder](https://github.com/nst-sdc/Screentime-recoder) | (Not specified) | A project to record screen time, open to contributions and issues. |
+| 380 | [Screentime-recoder](https://github.com/nst-sdc/Screentime-recoder) | JavaScript | A project to record screen time, open to contributions and issues. |
 | 381 | [Advance-Tab-Saver](https://github.com/kronpatel/Advance-Tab-Saver) | Chrome Extension | A simple Chrome extension to save, organize, and restore browser tabs easily to prevent tab clutter and boost productivity. |
 ## How to Contribute
 
