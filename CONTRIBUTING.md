@@ -114,6 +114,7 @@ Brief description of changes made.
 * Only submit projects that are active and accepting PRs.
 * Be respectful and follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 * Keep your tone friendly and open.
+* Run `python3 scripts/check_projects.py` before opening a PR; it checks the numbering, the link format and that the project is not already listed. The same check runs on every pull request.
 
 ---
 

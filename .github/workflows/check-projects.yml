@@ -1,0 +1,41 @@
+name: Check project list
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - scripts/**
+      - .github/workflows/check-projects.yml
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/**
+      - .github/workflows/check-projects.yml
+  workflow_dispatch:
+    inputs:
+      links:
+        description: Also check that every listed repository still exists
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Test the checker
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+
+      - name: Check the project table
+        run: python3 scripts/check_projects.py
+
+      - name: Check that every link still works
+        if: github.event_name == 'workflow_dispatch' && inputs.links
+        run: python3 scripts/check_projects.py --links
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
