@@ -14,7 +14,7 @@ We welcome contributions, but please follow the steps below to ensure consistenc
 ```bash
 git clone https://github.com/<your-username>/Hacktoberfest-25-Projects.git
 cd Hacktoberfest-25-Projects
-````
+```
 
 ---
 
@@ -40,15 +40,17 @@ git checkout -b project-golearn
 ## 3. Add Your Project
 
 1. Open the `README.md`.
-2. Add your project to the main project list.
+2. Search the file for your repository's URL to make sure the project is not already listed.
+3. Add your project as a new row at the end of the main project list, using the next `Sr. No`.
 
    * Format:
 
      ```markdown
      | SrNo | [project-name](project-link) | tech stack | short description |
      ```
+   * Link to the repository itself (`https://github.com/<owner>/<repo>`), not to an organization page or a URL ending in `.git`.
    * Keep the description short (max 120 characters).
-3. Before making a PR, ensure your repository has the **`hacktoberfest` topic** added.
+4. Before making a PR, ensure your repository has the **`hacktoberfest` topic** added.
 
 ---
 
@@ -58,18 +60,17 @@ Use clear and simple commit messages.
 Format:
 
 ```
-<short description>
+docs: add <project-name>
 ```
 
 Examples:
 
-* `add golearn project`
-* `add codegraphcontext project`
-
+* `docs: add golearn`
+* `docs: add codegraphcontext`
 
 ```bash
 git add README.md
-git commit -m "add golearn project"
+git commit -m "docs: add golearn"
 ```
 
 ---
@@ -103,6 +104,7 @@ Brief description of changes made.
 
 ## Checklist
 - [ ] I confirm my project has the `hacktoberfest` topic added
+- [ ] The project is not already in the list
 - [ ] Description is within 120 characters
 - [ ] The repository is active and accepts PRs
 ```
