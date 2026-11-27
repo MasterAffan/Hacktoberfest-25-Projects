@@ -311,7 +311,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 284 | [StratOS Website](https://github.com/StratOS-Linux/stratos-linux.github.io) | Astro, Starlight | The website for the StratOS Linux distribution, built with Astro and Starlight. (Part of the StratOS-Linux organization.) |
 | 285 | [Rockers](https://github.com/StratOS-Linux/rockers) | Rust | The custom package manager script for the StratOS Linux distribution. (Part of the StratOS-Linux organization.) |
 | 286 | [Grab](https://github.com/StratOS-Linux/grab) | C++ | The custom fetch tool for the StratOS Linux distribution. (Part of the StratOS-Linux organization.) |
-| 287 | [mcp-containers](https://github.com/metorial/metorial) | TypeScript, Docker | Containerized versions of hundreds of MCP (Multi-Crew Project) servers. |
+| 287 | [mcp-containers](https://github.com/metorial/metorial) | TypeScript, Docker | Containerized versions of hundreds of MCP (Model Context Protocol) servers. |
 | 288 | [FaceDetection\_Prototype3](https://github.com/yesiamrajeev/FaceDetection_Prototype3) | Python, OpenCV, Flask | A Face Detection Attendance System integrating machine learning with real-time web functionality, aimed at helping beginners. |
 | 289 | [chip8-emulator](https://github.com/python-fuse/chip8-emulator) | C++, SFML, Dear ImGui | A CHIP-8 Emulator open to contributions for new OPCODES and UI improvements. |
 | 290 | [HordVoice](https://github.com/HordRicJr/HordVoice) | Flutter | An AI-powered voice assistant built with Flutter and Azure AI Services. |
